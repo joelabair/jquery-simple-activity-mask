@@ -2,6 +2,7 @@ jquery-simple-activity-mask
 ============================
 
 A very basic jQuery plugin providing a simple activity mask overlay w/ spinner.
+
 Author: Joel A. Bair <joel.a.bair@gmail.com>
 Version: 1.0 (written for jQuery 1.4.2)
 Date: 03-2012
