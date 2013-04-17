@@ -1,18 +1,3 @@
-// jQuery simple masking activity indicator plugin
-// Author: Joel A. Bair <joel.a.bair@gmail.com>
-// Version: 1.0
-// Date: 03-2012
-//
-// Requires: simple-activity-mask.css + activity.gif
-//
-// Usage:
-//    mask a block level element with a semi-opaque layer
-//    $('#mydiv').apply_actmask();
-//
-//    remove / unmask
-//    $('#mydiv').remove_actmask();
-//
-
 (function( $ ) {
 
   $.fn.apply_actmask = function() {
